@@ -1,1 +1,3 @@
 # SignalCharacteristics
+
+The goal for this project is to use the Fourier Series will be used to plot and determine characteristics of a signal. Characteristics such as if the periodic function is even or odd, or even real. The Fourier transform will be applied to a signal in order to plot and find the intensity and frequency of signals by converting them into the frequency domain. The same is done to analyze an audiofile in order to calculate the specific frequency of the piano-note given, All of this plotting and calculation is done in matlab, allowing one to effectively visualize signals and use the built in functions to do heavy computation with relative ease.
